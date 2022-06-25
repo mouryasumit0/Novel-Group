@@ -19,7 +19,6 @@ steps:
   - '--platform'
   - 'managed'
   - '--allow-unauthenticated'
-  - '--ingress=all'
   - '--service-account'
   - 'sa-prod-web@novel-group-348718.iam.gserviceaccount.com'
   - '--max-instances'
